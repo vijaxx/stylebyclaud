@@ -24,7 +24,7 @@ That drove three constraints:
 
 ## Stack
 
-HTML, CSS, and vanilla JavaScript in one file. GitHub Pages for hosting. Amazon Associates for affiliate attribution.
+HTML and CSS in one file — no JavaScript. GitHub Pages for hosting. Amazon Associates for affiliate attribution.
 
 ## Scope
 
